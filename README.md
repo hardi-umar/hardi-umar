@@ -1,6 +1,6 @@
 Hi there 👋 Welcome to my GitHub page!
 
-👨🏾‍💻 I work in cybersecurity with a focus on cloud security, identity systems, and cyber risk
+👨🏾‍💻 I work in cybersecurity with a focus on governance, risk, and compliance while maintaining a strong technical background in cloud and identity security
 
 🎓 Graduate student in Information and Cybersecurity at UC Berkeley
 

@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋 Welcome to my GitHub page!
 
-<!--
-**hardi-umar/hardi-umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏾‍💻 I work in cybersecurity with a focus on cloud security, identity systems, and cyber risk
 
-Here are some ideas to get you started:
+🎓 Graduate student in Information and Cybersecurity at UC Berkeley
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 My work includes cloud security labs, identity management experiments, and security research
+
+🌍 Interested in practical cybersecurity solutions for emerging markets, especially Africa
+
+💬 Ask me about cloud security, identity systems, and cybersecurity learning paths
+
+📫  [You can connect with me via](https://linkedin.com/in/abdulhardi)

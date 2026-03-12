@@ -10,4 +10,4 @@ Hi there 👋 Welcome to my GitHub page!
 
 💬 Ask me about cloud security, identity systems, and cybersecurity learning paths
 
-📫  [You can connect with me via] (https://linkedin.com/in/abdulhardi)
+📫  You can connect with me on [LinkedIn](https://linkedin.com/in/abdulhardi)

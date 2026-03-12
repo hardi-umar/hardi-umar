@@ -4,10 +4,10 @@ Hi there 👋 Welcome to my GitHub page!
 
 🎓 Graduate student in Information and Cybersecurity at UC Berkeley
 
-🔭 My work includes cloud security labs, identity management experiments, and security research
+🔭 My work includes cybersecurity engineering, security research, risk assessments, security control analysis, and mapping technical environments to frameworks such as NIST and CMMC
 
-🌍 Interested in practical cybersecurity solutions for emerging markets, especially Africa
+🌍 Interested in practical cybersecurity solutions for emerging markets.
 
-💬 Ask me about cloud security, identity systems, and cybersecurity learning paths
+💬 Ask me about cybersecurity Engineering and cybersecurity learning paths
 
 📫  You can connect with me on [LinkedIn](https://linkedin.com/in/abdulhardi)

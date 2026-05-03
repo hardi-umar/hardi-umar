@@ -6,9 +6,9 @@ Graduate student in Information and Cybersecurity, UC Berkeley
 
 My work includes:
 
-Security engineering and risk assessments
-Mapping real systems to CMMC and NIST
-Log analysis, detection logic, and adversarial testing
+- Security engineering and risk assessments
+- Mapping real systems to CMMC and NIST
+- Log analysis, detection logic, and adversarial testing
 
 Currently developing detection methods to identify and track adversarial behavior in AI systems.
 

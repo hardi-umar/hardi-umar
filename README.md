@@ -14,6 +14,4 @@ Developing detection methods to identify and track adversarial behavior in AI sy
 
 Interested in practical cybersecurity solutions across cloud and emerging systems.
 
-💬 Ask me about cybersecurity Engineering and cybersecurity learning paths
-
 📫  You can connect with me on [LinkedIn](https://linkedin.com/in/abdulhardi)

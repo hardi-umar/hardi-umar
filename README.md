@@ -2,7 +2,7 @@ Hi, I’m Abdul Hardi Umar
 
 🔐 I work in cybersecurity focused on CMMC and NIST, validating controls through hands-on technical analysis.
 
-Graduate student in Information and Cybersecurity, UC Berkeley
+🎓 Graduate student in Information and Cybersecurity, UC Berkeley
 
 My work includes:
 

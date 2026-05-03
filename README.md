@@ -1,6 +1,6 @@
 Hi there 👋 Welcome to my GitHub page!
 
-👨🏾‍💻 I work in cybersecurity with a focus on governance, risk, and compliance while maintaining a strong technical background.
+I work in cybersecurity with a focus on governance, risk, and compliance, with an emphasis on validating controls through hands-on technical analysis.
 
 🎓 Graduate student in Information and Cybersecurity at UC Berkeley
 

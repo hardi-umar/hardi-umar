@@ -1,16 +1,18 @@
-Hi there 👋 Welcome to my GitHub page!
+Hi, I’m Abdul Hardi Umar
 
-🔐 I work in cybersecurity with a focus on governance, risk, and compliance, with an emphasis on validating controls through hands-on technical analysis.
+🔐 I work in cybersecurity focused on CMMC and NIST, validating controls through hands-on technical analysis.
 
-🎓 Graduate student in Information and Cybersecurity at UC Berkeley
+Graduate student in Information and Cybersecurity, UC Berkeley
 
-🔧 My work includes cybersecurity engineering, security research, risk assessments, and mapping technical environments to frameworks such as NIST and CMMC.
+My work includes:
 
-⚙️ I also build and test security solutions, including log analysis, detection logic, and adversarial testing to identify how systems behave under attack conditions.
+Security engineering and risk assessments
+Mapping real systems to CMMC and NIST
+Log analysis, detection logic, and adversarial testing
 
-🤖 Currently working on AI security monitoring and detection methods to identify and track adversarial interactions with language models.
+Currently developing detection methods to identify and track adversarial behavior in AI systems.
 
-🌍 Interested in practical cybersecurity solutions for emerging markets.
+Interested in practical cybersecurity solutions across cloud and emerging systems.
 
 💬 Ask me about cybersecurity Engineering and cybersecurity learning paths
 

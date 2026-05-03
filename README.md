@@ -12,6 +12,6 @@ My work includes:
 
 Developing detection methods to identify and track adversarial behavior in AI systems, with a focus on prompt injection and misuse patterns.
 
-Interested in practical cybersecurity solutions across cloud and emerging systems.
+Focused on practical cybersecurity solutions across cloud and emerging systems.
 
 📫  You can connect with me on [LinkedIn](https://linkedin.com/in/abdulhardi)
